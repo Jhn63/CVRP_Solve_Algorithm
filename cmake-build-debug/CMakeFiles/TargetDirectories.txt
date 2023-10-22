@@ -1,0 +1,3 @@
+C:/Users/Melissa/Documents/UFPB/5# Periodo/Analise e Projeto de Algoritmos/Projeto/cmake-build-debug/CMakeFiles/Projeto.dir
+C:/Users/Melissa/Documents/UFPB/5# Periodo/Analise e Projeto de Algoritmos/Projeto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Melissa/Documents/UFPB/5# Periodo/Analise e Projeto de Algoritmos/Projeto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
