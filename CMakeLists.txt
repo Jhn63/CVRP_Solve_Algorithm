@@ -11,4 +11,8 @@ add_executable(Projeto main.cpp
         Reader.cpp
         Reader.h
         Data.cpp
-        Data.h)
+        Data.h
+        VND.cpp
+        VND.h
+        LocalSearch.cpp
+        LocalSearch.h)

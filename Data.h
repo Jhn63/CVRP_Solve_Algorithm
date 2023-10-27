@@ -26,5 +26,4 @@ public:
     };
 };
 
-
 #endif //PROJETO_DATA_H

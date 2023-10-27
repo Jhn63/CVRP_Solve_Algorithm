@@ -17,8 +17,8 @@ private:
     std::vector<uint8_t> *visited;
 
     bool complete();
-    std::list<int> create_route();
-    int cheapest_not_visited_point(std::vector<int> edges_cost);
+    std::vector<int> create_route();
+    int cheapest_not_visited_point(std::vector<int> edges_cost, int *vehicle_q);
 
 public:
     Greedy(Data *data);
