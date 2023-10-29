@@ -25,7 +25,6 @@ Solution *Greedy::create() {
             //não pode terceirizar
             s->vehicle_use_cost += data->r;
             s->routes.push_back(create_route());
-            s->route_quantity++;
         }
         else {
             //pode terceirizar
@@ -35,7 +34,6 @@ Solution *Greedy::create() {
                 //não terceirizar
                 s->vehicle_use_cost += data->r;
                 s->routes.push_back(create_route());
-                s->route_quantity++;
             }
             else {
                 //terceirizar

@@ -10,7 +10,8 @@
 
 class VND {
 private:
-   LocalSearch *ls;
+    Solution *s;
+    LocalSearch *ls;
 
 public:
     VND(Data *d, Solution *s);

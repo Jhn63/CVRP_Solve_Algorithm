@@ -15,11 +15,10 @@ public:
     int vehicle_use_cost;
     int outsourcing_use_cost;
 
-    int route_quantity;
     std::vector<std::vector<int>> routes;
     std::vector<int> outs_attended_client;
 
-    Solution() : attended_c(0), total_cost(0), route_cost(0), vehicle_use_cost(0), outsourcing_use_cost(0), route_quantity(0) {};
+    Solution() : attended_c(0), total_cost(0), route_cost(0), vehicle_use_cost(0), outsourcing_use_cost(0) {};
     void sum_cost();
 };
 
