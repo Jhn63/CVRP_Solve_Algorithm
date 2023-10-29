@@ -250,7 +250,6 @@ void LocalSearch::apply_ro(std::vector<std::vector<int>>::iterator route, std::v
 
     route->erase(v);
     if (route->size() < 3) {
-        std::cout << "route removed" << std::endl;
         s->routes.erase(route);
         s->vehicle_use_cost-= data->r;
     }
