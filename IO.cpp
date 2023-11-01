@@ -3,9 +3,9 @@
 //
 
 
-#include "Reader.h"
+#include "IO.h"
 
-Data *Reader::read_data(const std::string file_path) {
+Data *IO::read_data(const std::string file_path) {
     std::ifstream input;
     input.open(file_path);
     if(!input.is_open()) {
@@ -52,4 +52,29 @@ Data *Reader::read_data(const std::string file_path) {
     }
     input.close();
     return data;
+}
+
+void IO::write_solution(Solution *s, std::string file_name) {
+    std::ofstream file(file_name);
+
+    file << s->total_cost << std::endl;
+    file << s->route_cost << std::endl;
+    file << s->vehicle_use_cost << std::endl;
+    file << s->outsourcing_use_cost << std::endl << std::endl;
+
+    for (auto e : s->outs_attended_client) {
+        file << e << " ";
+    }
+    file << std::endl << std::endl;
+
+    file << s->routes.size() << std::endl;
+    for (const auto& it : s->routes) {
+        auto e = it.begin()+1;
+        while (e != it.end()-1) {
+            file << *e << " ";
+            e++;
+        }
+        file << std::endl;
+    }
+    file << std::endl << std::endl;
 }

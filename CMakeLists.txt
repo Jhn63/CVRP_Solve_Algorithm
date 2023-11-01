@@ -8,11 +8,12 @@ add_executable(Projeto main.cpp
         Solution.h
         Greedy.cpp
         Greedy.h
-        Reader.cpp
-        Reader.h
+        IO.cpp
+        IO.h
         Data.cpp
         Data.h
         VND.cpp
         VND.h
         LocalSearch.cpp
-        LocalSearch.h)
+        LocalSearch.h
+)
