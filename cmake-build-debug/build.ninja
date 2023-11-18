@@ -49,47 +49,47 @@ cmake_ninja_workdir = C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ P
 
 build cmake_object_order_depends_target_Projeto: phony || CMakeFiles/Projeto.dir
 
-build CMakeFiles/Projeto.dir/main.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/main.cpp || cmake_object_order_depends_target_Projeto
-  DEP_FILE = CMakeFiles\Projeto.dir\main.cpp.obj.d
+build CMakeFiles/Projeto.dir/src/main.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/src/main.cpp || cmake_object_order_depends_target_Projeto
+  DEP_FILE = CMakeFiles\Projeto.dir\src\main.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Projeto.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir\src
 
-build CMakeFiles/Projeto.dir/Solution.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/Solution.cpp || cmake_object_order_depends_target_Projeto
-  DEP_FILE = CMakeFiles\Projeto.dir\Solution.cpp.obj.d
+build CMakeFiles/Projeto.dir/src/Solution.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/src/Solution.cpp || cmake_object_order_depends_target_Projeto
+  DEP_FILE = CMakeFiles\Projeto.dir\src\Solution.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Projeto.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir\src
 
-build CMakeFiles/Projeto.dir/Greedy.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/Greedy.cpp || cmake_object_order_depends_target_Projeto
-  DEP_FILE = CMakeFiles\Projeto.dir\Greedy.cpp.obj.d
+build CMakeFiles/Projeto.dir/src/Greedy.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/src/Greedy.cpp || cmake_object_order_depends_target_Projeto
+  DEP_FILE = CMakeFiles\Projeto.dir\src\Greedy.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Projeto.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir\src
 
-build CMakeFiles/Projeto.dir/IO.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/IO.cpp || cmake_object_order_depends_target_Projeto
-  DEP_FILE = CMakeFiles\Projeto.dir\IO.cpp.obj.d
+build CMakeFiles/Projeto.dir/src/IO.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/src/IO.cpp || cmake_object_order_depends_target_Projeto
+  DEP_FILE = CMakeFiles\Projeto.dir\src\IO.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Projeto.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir\src
 
-build CMakeFiles/Projeto.dir/Data.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/Data.cpp || cmake_object_order_depends_target_Projeto
-  DEP_FILE = CMakeFiles\Projeto.dir\Data.cpp.obj.d
+build CMakeFiles/Projeto.dir/src/Data.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/src/Data.cpp || cmake_object_order_depends_target_Projeto
+  DEP_FILE = CMakeFiles\Projeto.dir\src\Data.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Projeto.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir\src
 
-build CMakeFiles/Projeto.dir/VND.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/VND.cpp || cmake_object_order_depends_target_Projeto
-  DEP_FILE = CMakeFiles\Projeto.dir\VND.cpp.obj.d
+build CMakeFiles/Projeto.dir/src/VND.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/src/VND.cpp || cmake_object_order_depends_target_Projeto
+  DEP_FILE = CMakeFiles\Projeto.dir\src\VND.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Projeto.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir\src
 
-build CMakeFiles/Projeto.dir/LocalSearch.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/LocalSearch.cpp || cmake_object_order_depends_target_Projeto
-  DEP_FILE = CMakeFiles\Projeto.dir\LocalSearch.cpp.obj.d
+build CMakeFiles/Projeto.dir/src/LocalSearch.cpp.obj: CXX_COMPILER__Projeto_unscanned_Debug C$:/Users/Melissa/Documents/UFPB/5#$ Periodo/Analise$ e$ Projeto$ de$ Algoritmos/Projeto/src/LocalSearch.cpp || cmake_object_order_depends_target_Projeto
+  DEP_FILE = CMakeFiles\Projeto.dir\src\LocalSearch.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Projeto.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projeto.dir\src
 
 
 # =============================================================================
@@ -99,7 +99,7 @@ build CMakeFiles/Projeto.dir/LocalSearch.cpp.obj: CXX_COMPILER__Projeto_unscanne
 #############################################
 # Link the executable Projeto.exe
 
-build Projeto.exe: CXX_EXECUTABLE_LINKER__Projeto_Debug CMakeFiles/Projeto.dir/main.cpp.obj CMakeFiles/Projeto.dir/Solution.cpp.obj CMakeFiles/Projeto.dir/Greedy.cpp.obj CMakeFiles/Projeto.dir/IO.cpp.obj CMakeFiles/Projeto.dir/Data.cpp.obj CMakeFiles/Projeto.dir/VND.cpp.obj CMakeFiles/Projeto.dir/LocalSearch.cpp.obj
+build Projeto.exe: CXX_EXECUTABLE_LINKER__Projeto_Debug CMakeFiles/Projeto.dir/src/main.cpp.obj CMakeFiles/Projeto.dir/src/Solution.cpp.obj CMakeFiles/Projeto.dir/src/Greedy.cpp.obj CMakeFiles/Projeto.dir/src/IO.cpp.obj CMakeFiles/Projeto.dir/src/Data.cpp.obj CMakeFiles/Projeto.dir/src/VND.cpp.obj CMakeFiles/Projeto.dir/src/LocalSearch.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Projeto.dir

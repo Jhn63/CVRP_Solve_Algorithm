@@ -1,5 +1,5 @@
 # ninja log v5
-5	1170	7204031830949334	build.ninja	7b2583b94d96a757
+5	1170	7220067017206870	build.ninja	7b2583b94d96a757
 50	1094	7203130719771234	CMakeFiles/Projeto.dir/VND.cpp.obj	879c50d6e0341c4e
 30	1766	7201705145387758	CMakeFiles/Projeto.dir/Solution.cpp.obj	d675a3bba1d7ca5e
 32	1305	7203130721878415	CMakeFiles/Projeto.dir/Greedy.cpp.obj	8f5409981e55c33e
@@ -9,3 +9,11 @@
 69	1392	7203130722756396	CMakeFiles/Projeto.dir/LocalSearch.cpp.obj	3aa42432394b0213
 1738	2330	7203343734903501	Projeto.exe	1b921bcf1915d5cc
 53	1679	7203271506466759	CMakeFiles/Projeto.dir/IO.cpp.obj	b95374bdbadf0b29
+103	591	7220067832264959	CMakeFiles/Projeto.dir/src/Data.cpp.obj	b03c30158d8e1e9d
+54	617	7220067832325170	CMakeFiles/Projeto.dir/src/Solution.cpp.obj	a3ba03681a871a5a
+74	1505	7220067841421404	CMakeFiles/Projeto.dir/src/Greedy.cpp.obj	97baa8667a280fe7
+2	1510	7220067841471566	CMakeFiles/Projeto.dir/src/main.cpp.obj	40a3c28bf225025e
+152	1515	7220067841521737	CMakeFiles/Projeto.dir/src/LocalSearch.cpp.obj	648e2b1197f4633b
+126	1523	7220067841632103	CMakeFiles/Projeto.dir/src/IO.cpp.obj	b7945ef0d4411576
+595	1610	7220067842530157	CMakeFiles/Projeto.dir/src/VND.cpp.obj	7a2f6db7ed85dc15
+1611	2302	7220067849280517	Projeto.exe	aa1f2d958ed36764

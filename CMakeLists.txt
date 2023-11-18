@@ -3,17 +3,17 @@ project(Projeto)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Projeto main.cpp
-        Solution.cpp
-        Solution.h
-        Greedy.cpp
-        Greedy.h
-        IO.cpp
-        IO.h
-        Data.cpp
-        Data.h
-        VND.cpp
-        VND.h
-        LocalSearch.cpp
-        LocalSearch.h
+add_executable(Projeto src/main.cpp
+        src/Solution.cpp
+        src/Solution.h
+        src/Greedy.cpp
+        src/Greedy.h
+        src/IO.cpp
+        src/IO.h
+        src/Data.cpp
+        src/Data.h
+        src/VND.cpp
+        src/VND.h
+        src/LocalSearch.cpp
+        src/LocalSearch.h
 )
